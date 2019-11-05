@@ -1,0 +1,3 @@
+
+add_executable(staticwebserver serverstart.cpp)
+target_link_libraries(staticwebserver muduo_net muduo_http)

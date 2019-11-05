@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wushuohan/test/muduo/examples/staticHttpWebServer/serverstart.cpp
+muduo/base/Logging.h
+/home/wushuohan/test/muduo/examples/staticHttpWebServer/muduo/base/Logging.h
+muduo/net/EventLoop.h
+/home/wushuohan/test/muduo/examples/staticHttpWebServer/muduo/net/EventLoop.h
+muduo/net/TcpServer.h
+/home/wushuohan/test/muduo/examples/staticHttpWebServer/muduo/net/TcpServer.h
+muduo/base/Logging.h
+-
+muduo/net/EventLoopThreadPool.h
+-
+muduo/net/http/HttpServer.h
+-
+muduo/net/http/ConfigInit.h
+-
+muduo/net/http/OnRequestCallBack.h
+-
+

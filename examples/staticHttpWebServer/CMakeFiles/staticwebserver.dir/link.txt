@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/staticwebserver.dir/serverstart.cpp.o  -o staticwebserver -lmuduo_net -lmuduo_http 
